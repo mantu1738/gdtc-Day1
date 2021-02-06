@@ -9,7 +9,7 @@ body{
 }
       /* First Page */
 #title{
-    background: url(/mantosh/images/bgg-img.jpg);
+    background: url(../mantosh/images/bgg-img.jpg);
     width: 100%;
     height: auto;
     opacity: 0.7;
